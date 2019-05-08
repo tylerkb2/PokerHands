@@ -1,5 +1,9 @@
 # PokerHandsKata
 
+A fun excercise writing poker hands in Typescript. 
+
+I built a very quick Angular UI component to provide a simple display showing which hand each player has, and who has won. Behind the scenes both hand types are determined (ie. Straight, Flush.. etc) and each hand is also given a score. This score is mainly used in the case of a tie-breaker situation.
+
 ![PokeHands](https://user-images.githubusercontent.com/18493736/57354707-0dbf2180-7121-11e9-858a-c0adc2395947.PNG)
 
 ## Run
